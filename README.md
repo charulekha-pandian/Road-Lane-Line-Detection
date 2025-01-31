@@ -19,3 +19,8 @@ This project focuses on detecting road lane lines and objects using advanced com
 - Python 3.7+
 - Install the required Python packages:
 - YOLOV5 and openCV
+- 
+### Note
+--------
+- Input video - road-video-russia.mp4
+- Output video - lane_and_object_tracker.mp4
